@@ -1,0 +1,9 @@
+C:\dotnet\myapp-dotnetcore1\src\JHipsterNet\bin\Debug\netstandard2.1\JHipsterNet.deps.json
+C:\dotnet\myapp-dotnetcore1\src\JHipsterNet\bin\Debug\netstandard2.1\JHipsterNet.dll
+C:\dotnet\myapp-dotnetcore1\src\JHipsterNet\bin\Debug\netstandard2.1\JHipsterNet.pdb
+C:\dotnet\myapp-dotnetcore1\src\JHipsterNet\obj\Debug\netstandard2.1\JHipsterNet.csprojAssemblyReference.cache
+C:\dotnet\myapp-dotnetcore1\src\JHipsterNet\obj\Debug\netstandard2.1\JHipsterNet.csproj.CoreCompileInputs.cache
+C:\dotnet\myapp-dotnetcore1\src\JHipsterNet\obj\Debug\netstandard2.1\JHipsterNet.AssemblyInfoInputs.cache
+C:\dotnet\myapp-dotnetcore1\src\JHipsterNet\obj\Debug\netstandard2.1\JHipsterNet.AssemblyInfo.cs
+C:\dotnet\myapp-dotnetcore1\src\JHipsterNet\obj\Debug\netstandard2.1\JHipsterNet.dll
+C:\dotnet\myapp-dotnetcore1\src\JHipsterNet\obj\Debug\netstandard2.1\JHipsterNet.pdb
