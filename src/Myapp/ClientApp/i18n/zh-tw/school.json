@@ -1,0 +1,24 @@
+{
+  "myappApp": {
+    "school": {
+      "home": {
+        "title": "Schools",
+        "createLabel": "建立一筆新的 School",
+        "createOrEditLabel": "建立或編輯 School",
+        "notFound": "No Schools found"
+      },
+      "created": "新的 School 建立成功，識別碼為 {{ param }}",
+      "updated": "識別碼為 {{ param }} 的 School 更新成功",
+      "deleted": "識別碼為 {{ param }} 的 School 刪除成功",
+      "delete": {
+        "question": "您確定要刪除 School {{ id }} 嗎?"
+      },
+      "detail": {
+        "title": "School"
+      },
+      "name": "Name",
+      "age": "Age",
+      "course": "Course"
+    }
+  }
+}

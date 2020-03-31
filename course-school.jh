@@ -1,0 +1,27 @@
+entity Course {
+	name String
+	age Integer
+}
+
+entity School {
+	name String
+	age Integer
+}
+
+relationship OneToMany {
+  Course{school} to School{course}
+}
+
+
+
+// Set pagination options
+// paginate Teacher, Student with infinite-scroll
+paginate Course, School with pagination
+
+// Use Data Transfert Objects (DTO)
+// dto * with mapstruct
+
+// Set service options to all except few
+service all with serviceImpl 
+// Set an angular suffix
+// angularSuffix * with mySuffix

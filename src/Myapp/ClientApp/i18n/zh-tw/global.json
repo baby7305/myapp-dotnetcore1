@@ -9,6 +9,8 @@
         "main": "實體",
         "teacher": "Teacher",
         "student": "Student",
+        "course": "Course",
+        "school": "School",
         "jhipster-needle-menu-add-entry": "JHipster will add additional entities here (do not translate!)"
       },
       "account": {
