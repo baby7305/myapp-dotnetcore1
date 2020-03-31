@@ -145,3 +145,11 @@ Desktop.ini
 # ESLint
 ######################
 .eslintcache
+
+src/Myapp/bin/
+
+src/Myapp/obj/
+
+src/JHipsterNet/bin/
+
+src/JHipsterNet/obj/
